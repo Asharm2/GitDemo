@@ -17,4 +17,7 @@ public class Boolean {
     public static void fd2(){
         System.out.println("this method was created in develop branch 3");
     }
+    public static void fd3(){
+        System.out.println("this method was created in develop branch 4");
+    }
 }
