@@ -7,4 +7,14 @@ public class Boolean {
         System.out.println(isFishTasty);   // Outputs false
         System.out.println(isPaneerTasty);
     }
+
+    public static void fd(){
+        System.out.println("this method was created in develop branch 1");
+    }
+    public static void fd1(){
+        System.out.println("this method was created in develop branch 2");
+    }
+    public static void fd2(){
+        System.out.println("this method was created in develop branch 3");
+    }
 }
