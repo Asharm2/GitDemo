@@ -5,5 +5,6 @@ public class Array {
         System.out.println(cars[0]);
         System.out.println(cars[1]);
         System.out.println(cars[2]);
+        System.out.println(cars[3]);
     }
 }
